@@ -4,7 +4,7 @@
     <h3> Hello. I'm a Sysadmin and Developer specialized in Cybersecurity.</h3>
 </div>
 
-### Some of my Skills:
+## Some of my Skills:
 
 <table width="100%">
   <tr>
